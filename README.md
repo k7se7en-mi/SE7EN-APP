@@ -38,6 +38,29 @@ We welcome contributions to improve:
 **How to Contribute:**
 1. Fork the repo
 2. Create a new branch:
+3. ---
+
+## ✅ Upcoming Tasks (TODO)
+
+Here is a list of tasks where the community can contribute to improve the SE7EN App:
+
+- 🎨 Improve UI/UX
+  - Enhance the glass bottom navigation bar
+  - Add creative new icons
+  - Refine the user experience on Cart and Account pages
+
+- 🧑‍💻 Code and performance improvements
+  - Better project folder structure and architecture
+  - Optimize Firebase data loading performance
+  - Fix warnings and known bugs
+
+- 🆕 New features
+  - Add Dark Mode support
+  - Implement Wishlist (Favorites)
+  - Add product rating & comments system
+  - Integrate new payment gateways
+
+> If you are interested in contributing, please open an **Issue** or submit a **Pull Request** with clear details.
    ```bash
    git checkout -b feature/my-feature
 
@@ -85,6 +108,30 @@ We welcome contributions to improve:
 ### خطوات المساهمة:
 1. اعمل Fork للمستودع
 2. أنشئ فرع جديد (branch):
+
+3. ---
+
+## ✅ المهام القادمة (TODO)
+
+هذه قائمة بالمهام التي يمكن للمجتمع المساهمة فيها لتحسين تطبيق SE7EN:
+
+- 🎨 تحسين واجهات المستخدم (UI/UX)  
+  - تطوير الشريط الزجاجي (Glass Bottom Nav)  
+  - إضافة أيقونات إبداعية جديدة  
+  - تحسين تجربة المستخدم في صفحات السلة والحساب  
+
+- 🧑‍💻 تحسين الكود والأداء  
+  - تنظيم الملفات بشكل أوضح (Folders & Architecture)  
+  - تحسين سرعة تحميل البيانات من Firebase  
+  - إصلاح التحذيرات والأخطاء (Warnings & Bugs)  
+
+- 🆕 إضافة مزايا جديدة  
+  - دعم الوضع الليلي (Dark Mode)  
+  - إضافة Wishlist (المفضلة)  
+  - إضافة نظام تقييم وتعليقات للمنتجات  
+  - دمج بوابات دفع جديدة  
+
+> إذا كنت مهتماً بالمساهمة، يرجى فتح **Issue** أو إرسال **Pull Request** مع التوضيح.
    ```bash
    git checkout -b feature/my-feature
 
